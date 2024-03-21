@@ -7,7 +7,7 @@ import webbrowser
 
 root = customtkinter.CTk()
 
-root.title("Mars Scanner V0.1")
+root.title("Mars Scanner V1.0")
 root.geometry("640x480")
 root.resizable(False, False)
 customtkinter.set_appearance_mode("dark")
